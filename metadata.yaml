@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Hector_Berlioz
     - http://en.wikipedia.org/wiki/Hector_Berlioz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35825#Les-grotesques-de-la-musique
 gutenberg_bookshelf: FR Humour
 gutenberg_issued: '2011-04-11'
 gutenberg_type: Text
