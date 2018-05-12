@@ -1,0 +1,38 @@
+_repo: Les-grotesques-de-la-musique_35825
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berlioz, Hector
+    aliases:
+    - Berlioz, Louis Hector
+    - Berlioz, H. (Hector)
+    birthdate: 1803
+    deathdate: 1869
+    gutenberg_agent_id: '31953'
+    url: http://www.gutenberg.org/2009/agents/31953
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Hector_Berlioz
+    - http://en.wikipedia.org/wiki/Hector_Berlioz
+description: ''
+gutenberg_bookshelf: FR Humour
+gutenberg_issued: '2011-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35825'
+  lccn: 09006790
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music -- Humor'
+- !lcc 'ML'
+- !lcsh 'Berlioz, Hector, 1803-1869'
+- !lcsh 'Musicians -- Biography'
+- !lcsh 'Musicians -- Correspondence'
+- !lcsh 'Music -- Anecdotes'
+title: Les grotesques de la musique
+url: http://www.gutenberg.org/ebooks/35825
